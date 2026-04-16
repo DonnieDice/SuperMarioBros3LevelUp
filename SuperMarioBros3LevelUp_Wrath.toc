@@ -1,11 +1,11 @@
-## Interface: 11500
+## Interface: 30403
 ## Version: 1.0.9
 ## Title:|cffc24e37Super Mario Bros. 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/SMB3LU
+## X-Website: https://github.com/donniedice/SuperMarioBros3LevelUp
 ## X-Curse-Project-ID: 594143
 ## X-Wago-ID: pkNMrj6z
 ## X-WoWI-ID: 26264
