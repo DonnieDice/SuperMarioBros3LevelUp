@@ -1,5 +1,5 @@
 ## Interface: 11500
-## Version: 2.0.0
+## Version: 2.0.1
 ## Title:  |cff8d4816Super Mario Bros. 3|r Level Up|cff8d4816!|r
 ## IconTexture: Interface\AddOns\SuperMarioBros3LevelUp\media\icon
 ## Author: DonnieDice
