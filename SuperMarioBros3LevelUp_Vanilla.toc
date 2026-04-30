@@ -1,9 +1,11 @@
 ## Interface: 11500
-## Version: 1.0.10
-## Title:  |cffc24e37Super Mario Bros. 3|r Level Up|cffc24e37!|r
+## Version: 2.0.0
+## Title:  |cff8d4816Super Mario Bros. 3|r Level Up|cff8d4816!|r
 ## IconTexture: Interface\AddOns\SuperMarioBros3LevelUp\media\icon
 ## Author: DonnieDice
-## Notes:  Play a Super Mario Bros. 3-inspired level-up sound!  |n|r  |cffc24e37/smb3lu -|r Open help  |n|r   |cffc24e37By DonnieDice|r
+## SavedVariables: SMB3LUSettings
+## RequiredDeps: RGX-Framework
+## Notes:  Play a Super Mario Bros. 3-inspired level-up sound!  |n|r  |cff8d4816/smb3lu -|r Open help  |n|r   |cff8d4816By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/SuperMarioBros3LevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: pkNMrj6z
 ## X-WoWI-ID: 26264
 
-Core.lua
+data\locales.lua
+data\core.lua
