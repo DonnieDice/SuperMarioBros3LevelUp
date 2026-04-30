@@ -1,8 +1,9 @@
 ## Interface: 120005
-## Version: 1.0.9
-## Title:|cffc24e37Super Mario Bros. 3|r Level Up!
+## Version: 1.0.10
+## Title:  |cffc24e37Super Mario Bros. 3|r Level Up|cffc24e37!|r
+## IconTexture: Interface\AddOns\SuperMarioBros3LevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Super Mario Bros. 3-inspired level-up sound!  |n|r  |cffc24e37/smb3lu -|r Open help  |n|r   |cffc24e37By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/SuperMarioBros3LevelUp
